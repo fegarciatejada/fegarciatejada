@@ -2,15 +2,9 @@
 
 I’m Fernanda Tejada.
 
-* Currently: Computer Science Student in George Mason University - Virginia, VA.
+* Currently studying Mathematics, BA with a minor in Computer Science at George Mason University - Virginia, VA.
 
-## Spring 2023:
-
-CS 321 Software Engineering
-
-CS 330 Formal Methods & Models
-
-CS 367 Computer Systems & Programming
+## Expected December 2023
 
 ## :mailbox_with_mail: How to reach me:
 garciacfernanda@gmail.com
