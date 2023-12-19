@@ -2,10 +2,8 @@
 
 I’m Fernanda Tejada.
 
-* Currently studying Mathematics, BA with a minor in Computer Science at George Mason University - Virginia, VA.
-
-## Expected Graduation
-December 2023
+* George Mason University
+Mathematics, BA with minor in Computer Science Dec 2023
 
 ## :mailbox_with_mail: How to reach me:
 garciacfernanda@gmail.com
