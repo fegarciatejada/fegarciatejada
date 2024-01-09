@@ -1,9 +1,11 @@
  ## 👋 Hi there! 
 
-I’m Fernanda Tejada.
+I’m Fernanda Tejada. 
+I am a recent Computer Science and Mathematics graduate from George Mason University, keen to embark on my tech industry journey. My academic training has provided a strong foundation in software development, data structures, algorithms, and mathematical problem-solving. Eager to apply my programming skills in Java, C, Python, and JavaScript, I am ready to contribute significantly to a relevant role.
 
 * George Mason University
-Mathematics, BA with minor in Computer Science Dec 2023
+
+I am passionate programmer, I am always eager to learn new technologies.
 
 ## :mailbox_with_mail: How to reach me:
 garciacfernanda@gmail.com
