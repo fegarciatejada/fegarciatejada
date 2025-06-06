@@ -8,7 +8,7 @@ I am a recent Computer Science and Mathematics graduate from George Mason Univer
 I am passionate programmer, I am always eager to learn new technologies.
 
 ## :mailbox_with_mail: How to reach me:
-fernanda.tejada@icloud.com
+nandagct@outlook.com
 
 <!---
 fegarciatejada/fegarciatejada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
